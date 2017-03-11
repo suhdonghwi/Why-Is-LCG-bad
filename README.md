@@ -24,3 +24,5 @@ So I implemented in python, with n=3(of course :D). and result is here:
 OWAH!
 
 I cannot count exactly but I think there are 11 planes in space.
+
+See also : [BBS](https://github.com/g34r/BBS-prng)
